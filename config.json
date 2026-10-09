@@ -1,0 +1,37 @@
+{
+  "location": "United States",
+  "lookback_hours": 24,
+  "max_results_per_keyword": 100,
+  "keep_days": 30,
+  "exclude_title_words": ["senior", "sr.", "staff", "principal", "manager", "lead"],
+  "categories": {
+    "Software Engineering": {
+      "keywords": [
+        "software engineer intern",
+        "software engineering internship",
+        "software developer intern",
+        "backend engineer intern",
+        "frontend engineer intern",
+        "full stack intern"
+      ],
+      "title_must_include_one_of": [
+        "software", "developer", "swe", "backend", "back-end", "frontend",
+        "front-end", "full stack", "full-stack", "engineer"
+      ]
+    },
+    "Game Design": {
+      "keywords": [
+        "game design intern",
+        "game designer intern",
+        "level design intern",
+        "game developer intern",
+        "gameplay programmer intern",
+        "technical designer intern"
+      ],
+      "title_must_include_one_of": [
+        "game", "level design", "gameplay", "technical design", "narrative design",
+        "systems design", "unity", "unreal"
+      ]
+    }
+  }
+}
