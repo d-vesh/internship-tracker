@@ -2,62 +2,112 @@
 
 New **Software Engineering** and **Game Design** internships from LinkedIn, refreshed every morning by a GitHub Action.
 
-_Last updated: 2026-11-05 21:01 UTC · 1863 open postings from the last 30 days · 🆕 = found in the latest run_
+_Last updated: 2026-11-06 20:21 UTC · 1914 open postings from the last 30 days · 🆕 = found in the latest run_
 
-## Software Engineering (1816)
+## Software Engineering (1866)
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **PayPal** 🆕 | Software Engineer Intern - Summer 2027 | Omaha, NE | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-paypal-4487599855) |
-| **PayPal** 🆕 | Software Engineer Intern - Summer 2027 | Scottsdale, AZ | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-paypal-4487705616) |
-| **Boston Scientific** 🆕 | Software Development Engineer Intern | Waltham, MA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-development-engineer-intern-at-boston-scientific-4487574791) |
-| **Northrop Grumman** 🆕 | 2027 Ground Software Engineer Intern - Redondo Beach CA | Redondo Beach, CA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/2027-ground-software-engineer-intern-redondo-beach-ca-at-northrop-grumman-4487719297) |
-| **EngRadar** 🆕 | Software Developer Intern | Warrenville, IL | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-developer-intern-at-engradar-4487783765) |
-| **HP** 🆕 | Software Internship Roles - HP Solutions (HPS) | Fort Collins, CO | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-internship-roles-hp-solutions-hps-at-hp-4487718289) |
-| **Clearwater Analytics** 🆕 | Software Development Intern | Chicago, IL | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-development-intern-at-clearwater-analytics-4459592105) |
-| **RRD** 🆕 | IT Software Integration & Automation Summer Intern | Minneapolis, MN | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/it-software-integration-automation-summer-intern-at-rrd-4487768607) |
-| **JM Family Enterprises, Inc.** 🆕 | Software Engineer Intern | Miami-Fort Lauderdale Area | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-at-jm-family-enterprises-inc-4487773917) |
-| **IBM** 🆕 | SW Developer Intern \| Enterprise Platform-as-a-Service - Durham, NC - 2027 | Durham, NC | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/sw-developer-intern-enterprise-platform-as-a-service-durham-nc-2027-at-ibm-4459553734) |
-| **KLA** 🆕 | Software Engineering Intern (C++, Unix) | Milpitas, CA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-c%2B%2B-unix-at-kla-4468985948) |
-| **Elevated Web Design** 🆕 | ML Software Engineering Internship | United States | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/ml-software-engineering-internship-at-elevated-web-design-4488051046) |
-| **Astranis Space Technologies** 🆕 | Flight Software Intern (Summer 2027) | San Francisco Bay Area | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/flight-software-intern-summer-2027-at-astranis-space-technologies-4469095634) |
-| **KLA** 🆕 | Algorithm Engineering Intern (AI, Computer Vision & Software Engineering) | Milpitas, CA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/algorithm-engineering-intern-ai-computer-vision-software-engineering-at-kla-4469305037) |
-| **Deltek** 🆕 | Software Development Internship | Herndon, VA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-development-internship-at-deltek-4488007947) |
-| **Rippling** 🆕 | Full Stack Software Engineer Intern - Summer 2027 | San Francisco, CA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/full-stack-software-engineer-intern-summer-2027-at-rippling-4470477973) |
-| **RRD** 🆕 | Software Developer Intern | Warrenville, IL | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-developer-intern-at-rrd-4487774208) |
-| **Northrop Grumman** 🆕 | 2027 Flight Software Engineer Intern - Redondo Beach CA | Manhattan Beach, CA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/2027-flight-software-engineer-intern-redondo-beach-ca-at-northrop-grumman-4487717380) |
-| **IBM** 🆕 | Back-End Developer Intern 2027 -Tucson, AZ | Tucson, AZ | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/back-end-developer-intern-2027-tucson-az-at-ibm-4459557667) |
-| **Little Caesars Pizza** 🆕 | Intern, Developer IT | Detroit, MI | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/intern-developer-it-at-little-caesars-pizza-4487799873) |
-| **Shield** 🆕 | June 2027 Co-Op - Software Engineer Intern | San Diego Metropolitan Area | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/june-2027-co-op-software-engineer-intern-at-shield-4488026465) |
-| **RoboNex 88 Technologies** 🆕 | Software Engineering-Intern | Rochester, NY | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-at-robonex-88-technologies-4485811620) |
-| **Parsons Corporation** 🆕 | Summer Embedded Developer Intern | Columbia, MD | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/summer-embedded-developer-intern-at-parsons-corporation-4488009966) |
-| **KUKA** 🆕 | Software Developer Intern | Clinton Township, MI | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-developer-intern-at-kuka-4488029621) |
-| **PayPal** 🆕 | Software Engineer Intern - Summer 2027 | San Jose, CA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-paypal-4487715366) |
-| **Deltek** 🆕 | Software Engineering Intern | Herndon, VA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-at-deltek-4488011804) |
-| **HP** 🆕 | Software Internship Roles - HP Solutions (HPS) | Austin, TX | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-internship-roles-hp-solutions-hps-at-hp-4487716446) |
-| **Booz Allen Hamilton** 🆕 | Product Engineering Intern | McLean, VA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/product-engineering-intern-at-booz-allen-hamilton-4487787314) |
-| **FDB (First Databank, Inc.)** 🆕 | Software Engineering Intern | Carmel, IN | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-at-fdb-first-databank-inc-4486752865) |
-| **MeeBoss** 🆕 | Software Engineer Intern | United States | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-at-meeboss-4487771430) |
-| **Ciena** 🆕 | WaveLogic Software Intern Spring 2027 | Atlanta, GA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/wavelogic-software-intern-spring-2027-at-ciena-4470007425) |
-| **L3Harris Technologies** 🆕 | Intern, Software Engineer | Nashville, TN | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/intern-software-engineer-at-l3harris-technologies-4487745891) |
-| **Structavia Consulting Engineers** 🆕 | Engineering Internship Program | California, United States | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/engineering-internship-program-at-structavia-consulting-engineers-4485863110) |
-| **Marketeq Digital Solutions** 🆕 | AI Solutions Engineering Intern (U.S.A Only) | Miami, FL | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/ai-solutions-engineering-intern-u-s-a-only-at-marketeq-digital-solutions-4487778432) |
-| **Deltek** 🆕 | Software Engineering Intern | Herndon, VA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-at-deltek-4488008961) |
-| **ArtsQuest** 🆕 | WEB DEVELOPMENT WINTER/SPRING INTERNSHIP, NO SOFTWARE DEVELOPMENT CONTENT | Bethlehem, PA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/web-development-winter-spring-internship-no-software-development-content-at-artsquest-4486789051) |
-| **HP** 🆕 | Software Internship Roles - HP Solutions (HPS) | Spring, TX | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-internship-roles-hp-solutions-hps-at-hp-4487719188) |
-| **PayPal** 🆕 | Software Engineer Intern - Summer 2027 | Chicago, IL | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-paypal-4487712243) |
-| **PayPal** 🆕 | Mobile Engineer Intern - Summer 2027 | Austin, TX | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/mobile-engineer-intern-summer-2027-at-paypal-4487598915) |
-| **PayPal** 🆕 | Mobile Engineer Intern - Summer 2027 | Omaha, NE | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/mobile-engineer-intern-summer-2027-at-paypal-4487712242) |
-| **PayPal** 🆕 | Mobile Engineer Intern - Summer 2027 | Scottsdale, AZ | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/mobile-engineer-intern-summer-2027-at-paypal-4487718163) |
-| **PayPal** 🆕 | Mobile Engineer Intern - Summer 2027 | San Jose, CA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/mobile-engineer-intern-summer-2027-at-paypal-4487599856) |
-| **PayPal** 🆕 | Mobile Engineer Intern - Summer 2027 | Chicago, IL | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/mobile-engineer-intern-summer-2027-at-paypal-4487700838) |
-| **PayPal** 🆕 | Software Engineer Intern - Summer 2027 | Austin, TX | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-paypal-4487708562) |
-| **Humana** 🆕 | Humana Technology Internship – Summer 2027 - Society of Women Engineers Conference 2026 | Arlington, VA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/humana-technology-internship-%E2%80%93-summer-2027-society-of-women-engineers-conference-2026-at-humana-4477042691) |
-| **HP** 🆕 | Software Engineering Intern, AIML Platform - HP IQ | San Francisco, CA | 2026-11-04 | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-aiml-platform-hp-iq-at-hp-4487568525) |
-| **Modern Technology Solutions, Inc. (MTSI)** 🆕 | Software Development Intern | St Louis, MO | 2026-11-04 | [Apply](https://www.linkedin.com/jobs/view/software-development-intern-at-modern-technology-solutions-inc-mtsi-4486545476) |
-| **Zebra Technologies** 🆕 | 2027 Summer Internship (US) - Software Engineer | Holtsville, NY | 2026-11-04 | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-us-software-engineer-at-zebra-technologies-4485541232) |
-| **Leidos** 🆕 | Software Engineering & AI Intern | Odenton, MD | 2026-11-04 | [Apply](https://www.linkedin.com/jobs/view/software-engineering-ai-intern-at-leidos-4485566064) |
-| **Leidos** 🆕 | Software Engineering & AI Intern | Scott AFB, IL | 2026-11-04 | [Apply](https://www.linkedin.com/jobs/view/software-engineering-ai-intern-at-leidos-4485550788) |
+| **Palantir Technologies** 🆕 | Software Engineer, Internship - Sovereign AI Systems | New York, NY | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/software-engineer-internship-sovereign-ai-systems-at-palantir-technologies-4486947025) |
+| **Samsara** 🆕 | Software Engineering Internship - San Francisco | Oakland, CA | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/software-engineering-internship-san-francisco-at-samsara-4488191189) |
+| **Samsara** 🆕 | Software Engineering Internship - San Francisco | San Francisco, CA | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/software-engineering-internship-san-francisco-at-samsara-4488187296) |
+| **Zoox** 🆕 | Software Engineer Intern, Software Systems [Summer 2027] | Foster City, CA | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-software-systems-summer-2027-at-zoox-4486933893) |
+| **Raft** 🆕 | Full Stack Engineering Intern - Summer 2027 | McLean, VA | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/full-stack-engineering-intern-summer-2027-at-raft-4486925957) |
+| **Trinzic** 🆕 | Defense & Intel (D&I) - Software Engineering Internship | Beavercreek, OH | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/defense-intel-d-i-software-engineering-internship-at-trinzic-4488081837) |
+| **Notion** 🆕 | Software Engineer Intern, Mobile (Winter 2027) | San Francisco, CA | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-mobile-winter-2027-at-notion-4471697056) |
+| **Trinzic** 🆕 | Defense & Intel (D&I) - Software Engineering Internship | Orlando, FL | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/defense-intel-d-i-software-engineering-internship-at-trinzic-4488085673) |
+| **ASM** 🆕 | Intern, Product Intelligence Engineering (AI/ML) | Greater Phoenix Area | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/intern-product-intelligence-engineering-ai-ml-at-asm-4488119402) |
+| **Voloridge Investment Management, LLC** 🆕 | Quantitative Developer Intern 2027 | Jupiter, FL | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/quantitative-developer-intern-2027-at-voloridge-investment-management-llc-4486237746) |
+| **Northrop Grumman** 🆕 | 2027 Spring Co-op Software Engineer Intern – McClellan CA | McClellan Park, CA | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/2027-spring-co-op-software-engineer-intern-%E2%80%93-mcclellan-ca-at-northrop-grumman-4488116268) |
+| **HP** 🆕 | AI Applied Engineering Intern | Vancouver, WA | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/ai-applied-engineering-intern-at-hp-4488104798) |
+| **Haystack** 🆕 | Software Engineer Intern | Illinois, United States | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-at-haystack-4486941721) |
+| **CNH** 🆕 | Software Engineer Intern | Sioux Falls, SD | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-at-cnh-4480126258) |
+| **Trinzic** 🆕 | Defense & Intel (D&I) - Software Engineering Internship | Kihei, HI | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/defense-intel-d-i-software-engineering-internship-at-trinzic-4488097101) |
+| **Raytheon** 🆕 | Software Engineering Intern (Summer 2027) | Aurora, CO | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-raytheon-4488109467) |
+| **targetjobs UK** 🆕 | SW Engineer Intern, AI Engineering | San Jose, CA | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/sw-engineer-intern-ai-engineering-at-targetjobs-uk-4486944416) |
+| **MedPro Group** 🆕 | Intern - Application Developer | Fort Wayne, IN | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/intern-application-developer-at-medpro-group-4488407778) |
+| **Applied Concepts, Inc.** 🆕 | Web and Apps Developer - Intern (Nov-26 to May-27) | Richardson, TX | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/web-and-apps-developer-intern-nov-26-to-may-27-at-applied-concepts-inc-4488406928) |
+| **HP** 🆕 | Software Product Security Intern - HP IQ | San Francisco, CA | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/software-product-security-intern-hp-iq-at-hp-4488108609) |
+| **Zoox** 🆕 | Software Engineer Intern, Autonomy Software [Summer 2027] | Foster City, CA | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-autonomy-software-summer-2027-at-zoox-4486933894) |
+| **Northrop Grumman** 🆕 | 2027 Software Engineering Intern - Roy UT | Roy, UT | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/2027-software-engineering-intern-roy-ut-at-northrop-grumman-4488108588) |
+| **EngRadar** 🆕 | 2027 Summer Intern, MS/PhD, Software Engineer, Multiverse | San Francisco, CA | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-ms-phd-software-engineer-multiverse-at-engradar-4488189338) |
+| **Tinder** 🆕 | Backend Engineer Intern | Palo Alto, CA | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/backend-engineer-intern-at-tinder-4486995499) |
+| **Tinder** 🆕 | Backend Engineer Intern | Los Angeles, CA | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/backend-engineer-intern-at-tinder-4486986751) |
+| **Samsara** 🆕 | Software Engineering Internship - San Francisco | San Jose, CA | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/software-engineering-internship-san-francisco-at-samsara-4488190230) |
+| **Intel** 🆕 | Software Engineering - Intern, Graduate | Santa Clara, CA | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-graduate-at-intel-4461324267) |
+| **Johns Hopkins Applied Physics Laboratory** 🆕 | 2027 Internship - Maritime Software Development - Ocean Systems and Engineering | Laurel, MD | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/2027-internship-maritime-software-development-ocean-systems-and-engineering-at-johns-hopkins-applied-physics-laboratory-4485885257) |
+| **Figma** 🆕 | Data Engineer Intern (2027) | San Francisco, CA | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/data-engineer-intern-2027-at-figma-4469608094) |
+| **General Motors** 🆕 | 2027 Summer Intern - Digital Product: Software Engineering | Greater Seattle Area | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/2027-summer-intern-digital-product-software-engineering-at-general-motors-4471196209) |
+| **Marketeq Digital Solutions** 🆕 | AI Workflow Engineering Intern (U.S.A Only) | Miami, FL | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/ai-workflow-engineering-intern-u-s-a-only-at-marketeq-digital-solutions-4488167450) |
+| **Samsara** 🆕 | Software Engineering Internship - San Francisco | Alexandria, VA | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/software-engineering-internship-san-francisco-at-samsara-4488193102) |
+| **Tinder** 🆕 | iOS Engineer Intern | Los Angeles, CA | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/ios-engineer-intern-at-tinder-4486984758) |
+| **HP** 🆕 | Engineering & Technical Internship Roles - HP Solutions (HPS) | Austin, TX | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/engineering-technical-internship-roles-hp-solutions-hps-at-hp-4488078539) |
+| **HP** 🆕 | Engineering & Technical Internship Roles - HP Solutions (HPS) | Fort Collins, CO | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/engineering-technical-internship-roles-hp-solutions-hps-at-hp-4488088082) |
+| **Career Launch Tech Initiative** 🆕 | Software Engineering Intern (Volunteer) | Los Angeles, CA | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-volunteer-at-career-launch-tech-initiative-4487305751) |
+| **IBM** 🆕 | Back End Developer Intern - NY POK JS - 2027 | Poughkeepsie, AR | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/back-end-developer-intern-ny-pok-js-2027-at-ibm-4477332170) |
+| **Allied Consultants, Inc.** 🆕 | Power Platform Admin/Developer Intern | Austin, TX | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/power-platform-admin-developer-intern-at-allied-consultants-inc-4488183625) |
+| **RoviSys** 🆕 | Engineering Co-op - Spring 2027 | Dublin, OH | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/engineering-co-op-spring-2027-at-rovisys-4480124366) |
+| **CareSource** 🆕 | 2027 Summer Internship Program - Full Stack AI Development Intern-1 | United States | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-program-full-stack-ai-development-intern-1-at-caresource-4486922983) |
+| **T-Mobile** 🆕 | Summer 2027 Software Engineering Internship | Atlanta, GA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/summer-2027-software-engineering-internship-at-t-mobile-4488064717) |
+| **Cintas** 🆕 | IT Intern - Engineer - Customer Channels | Mason, OH | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/it-intern-engineer-customer-channels-at-cintas-4488065157) |
+| **Apex** 🆕 | Software Engineering Internship, Embedded Systems (Spring or Summer 2027) | Los Angeles, CA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineering-internship-embedded-systems-spring-or-summer-2027-at-apex-4488060572) |
+| **Nooks** 🆕 | Software Engineer, Intern | San Francisco, CA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-at-nooks-4486910544) |
+| **CAI** 🆕 | GIS Software Developer Intern | United States | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/gis-software-developer-intern-at-cai-4477922854) |
+| **k-ID** 🆕 | Engineering Internship Program | United States | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/engineering-internship-program-at-k-id-4488052821) |
+| **JM Family Enterprises, Inc.** 🆕 | Data Engineering Intern | Miami-Fort Lauderdale Area | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/data-engineering-intern-at-jm-family-enterprises-inc-4488063252) |
+| **DwyerOmega** 🆕 | Software Engineering Intern | Westerville, OH | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-at-dwyeromega-4488056688) |
+| **Apex** 🆕 | Ground Software Engineering Internship (Spring or Summer 2027) | Los Angeles, CA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/ground-software-engineering-internship-spring-or-summer-2027-at-apex-4488047890) |
+| **JM Family Enterprises, Inc.** 🆕 | Software Analyst Intern | Miami-Fort Lauderdale Area | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-analyst-intern-at-jm-family-enterprises-inc-4488056523) |
+| **IBM** | SW Developer Intern \| Enterprise Platform-as-a-Service - Durham, NC - 2027 | Durham, NC | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/sw-developer-intern-enterprise-platform-as-a-service-durham-nc-2027-at-ibm-4459553734) |
+| **IBM** | Back-End Developer Intern 2027 -Tucson, AZ | Tucson, AZ | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/back-end-developer-intern-2027-tucson-az-at-ibm-4459557667) |
+| **Clearwater Analytics** | Software Development Intern | Chicago, IL | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-development-intern-at-clearwater-analytics-4459592105) |
+| **KLA** | Software Engineering Intern (C++, Unix) | Milpitas, CA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-c%2B%2B-unix-at-kla-4468985948) |
+| **Astranis Space Technologies** | Flight Software Intern (Summer 2027) | San Francisco Bay Area | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/flight-software-intern-summer-2027-at-astranis-space-technologies-4469095634) |
+| **KLA** | Algorithm Engineering Intern (AI, Computer Vision & Software Engineering) | Milpitas, CA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/algorithm-engineering-intern-ai-computer-vision-software-engineering-at-kla-4469305037) |
+| **Ciena** | WaveLogic Software Intern Spring 2027 | Atlanta, GA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/wavelogic-software-intern-spring-2027-at-ciena-4470007425) |
+| **Rippling** | Full Stack Software Engineer Intern - Summer 2027 | San Francisco, CA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/full-stack-software-engineer-intern-summer-2027-at-rippling-4470477973) |
+| **Humana** | Humana Technology Internship – Summer 2027 - Society of Women Engineers Conference 2026 | Arlington, VA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/humana-technology-internship-%E2%80%93-summer-2027-society-of-women-engineers-conference-2026-at-humana-4477042691) |
+| **RoboNex 88 Technologies** | Software Engineering-Intern | Rochester, NY | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-at-robonex-88-technologies-4485811620) |
+| **Structavia Consulting Engineers** | Engineering Internship Program | California, United States | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/engineering-internship-program-at-structavia-consulting-engineers-4485863110) |
+| **FDB (First Databank, Inc.)** | Software Engineering Intern | Carmel, IN | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-at-fdb-first-databank-inc-4486752865) |
+| **ArtsQuest** | WEB DEVELOPMENT WINTER/SPRING INTERNSHIP, NO SOFTWARE DEVELOPMENT CONTENT | Bethlehem, PA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/web-development-winter-spring-internship-no-software-development-content-at-artsquest-4486789051) |
+| **Boston Scientific** | Software Development Engineer Intern | Waltham, MA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-development-engineer-intern-at-boston-scientific-4487574791) |
+| **PayPal** | Mobile Engineer Intern - Summer 2027 | Austin, TX | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/mobile-engineer-intern-summer-2027-at-paypal-4487598915) |
+| **PayPal** | Software Engineer Intern - Summer 2027 | Omaha, NE | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-paypal-4487599855) |
+| **PayPal** | Mobile Engineer Intern - Summer 2027 | San Jose, CA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/mobile-engineer-intern-summer-2027-at-paypal-4487599856) |
+| **PayPal** | Mobile Engineer Intern - Summer 2027 | Chicago, IL | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/mobile-engineer-intern-summer-2027-at-paypal-4487700838) |
+| **PayPal** | Software Engineer Intern - Summer 2027 | Scottsdale, AZ | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-paypal-4487705616) |
+| **PayPal** | Software Engineer Intern - Summer 2027 | Austin, TX | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-paypal-4487708562) |
+| **PayPal** | Mobile Engineer Intern - Summer 2027 | Omaha, NE | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/mobile-engineer-intern-summer-2027-at-paypal-4487712242) |
+| **PayPal** | Software Engineer Intern - Summer 2027 | Chicago, IL | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-paypal-4487712243) |
+| **PayPal** | Software Engineer Intern - Summer 2027 | San Jose, CA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-paypal-4487715366) |
+| **HP** | Software Internship Roles - HP Solutions (HPS) | Austin, TX | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-internship-roles-hp-solutions-hps-at-hp-4487716446) |
+| **Northrop Grumman** | 2027 Flight Software Engineer Intern - Redondo Beach CA | Manhattan Beach, CA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/2027-flight-software-engineer-intern-redondo-beach-ca-at-northrop-grumman-4487717380) |
+| **PayPal** | Mobile Engineer Intern - Summer 2027 | Scottsdale, AZ | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/mobile-engineer-intern-summer-2027-at-paypal-4487718163) |
+| **HP** | Software Internship Roles - HP Solutions (HPS) | Fort Collins, CO | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-internship-roles-hp-solutions-hps-at-hp-4487718289) |
+| **HP** | Software Internship Roles - HP Solutions (HPS) | Spring, TX | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-internship-roles-hp-solutions-hps-at-hp-4487719188) |
+| **Northrop Grumman** | 2027 Ground Software Engineer Intern - Redondo Beach CA | Redondo Beach, CA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/2027-ground-software-engineer-intern-redondo-beach-ca-at-northrop-grumman-4487719297) |
+| **L3Harris Technologies** | Intern, Software Engineer | Nashville, TN | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/intern-software-engineer-at-l3harris-technologies-4487745891) |
+| **RRD** | IT Software Integration & Automation Summer Intern | Minneapolis, MN | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/it-software-integration-automation-summer-intern-at-rrd-4487768607) |
+| **MeeBoss** | Software Engineer Intern | United States | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-at-meeboss-4487771430) |
+| **JM Family Enterprises, Inc.** | Software Engineer Intern | Miami-Fort Lauderdale Area | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-at-jm-family-enterprises-inc-4487773917) |
+| **RRD** | Software Developer Intern | Warrenville, IL | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-developer-intern-at-rrd-4487774208) |
+| **Marketeq Digital Solutions** | AI Solutions Engineering Intern (U.S.A Only) | Miami, FL | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/ai-solutions-engineering-intern-u-s-a-only-at-marketeq-digital-solutions-4487778432) |
+| **EngRadar** | Software Developer Intern | Warrenville, IL | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-developer-intern-at-engradar-4487783765) |
+| **Booz Allen Hamilton** | Product Engineering Intern | McLean, VA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/product-engineering-intern-at-booz-allen-hamilton-4487787314) |
+| **Little Caesars Pizza** | Intern, Developer IT | Detroit, MI | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/intern-developer-it-at-little-caesars-pizza-4487799873) |
+| **Deltek** | Software Development Internship | Herndon, VA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-development-internship-at-deltek-4488007947) |
+| **Deltek** | Software Engineering Intern | Herndon, VA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-at-deltek-4488008961) |
+| **Parsons Corporation** | Summer Embedded Developer Intern | Columbia, MD | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/summer-embedded-developer-intern-at-parsons-corporation-4488009966) |
+| **Deltek** | Software Engineering Intern | Herndon, VA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-at-deltek-4488011804) |
+| **Shield** | June 2027 Co-Op - Software Engineer Intern | San Diego Metropolitan Area | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/june-2027-co-op-software-engineer-intern-at-shield-4488026465) |
+| **KUKA** | Software Developer Intern | Clinton Township, MI | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/software-developer-intern-at-kuka-4488029621) |
+| **Elevated Web Design** | ML Software Engineering Internship | United States | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/ml-software-engineering-internship-at-elevated-web-design-4488051046) |
+| **Zebra Technologies** | 2027 Summer Internship (US) - Software Engineer | Holtsville, NY | 2026-11-04 | [Apply](https://www.linkedin.com/jobs/view/2027-summer-internship-us-software-engineer-at-zebra-technologies-4485541232) |
+| **Leidos** | Software Engineering & AI Intern | Scott AFB, IL | 2026-11-04 | [Apply](https://www.linkedin.com/jobs/view/software-engineering-ai-intern-at-leidos-4485550788) |
+| **Leidos** | Software Engineering & AI Intern | Odenton, MD | 2026-11-04 | [Apply](https://www.linkedin.com/jobs/view/software-engineering-ai-intern-at-leidos-4485566064) |
+| **Modern Technology Solutions, Inc. (MTSI)** | Software Development Intern | St Louis, MO | 2026-11-04 | [Apply](https://www.linkedin.com/jobs/view/software-development-intern-at-modern-technology-solutions-inc-mtsi-4486545476) |
+| **HP** | Software Engineering Intern, AIML Platform - HP IQ | San Francisco, CA | 2026-11-04 | [Apply](https://www.linkedin.com/jobs/view/software-engineering-intern-aiml-platform-hp-iq-at-hp-4487568525) |
 | **IBM** | Software Developer Intern/Tucson-AZ | Tucson, AZ | 2026-11-04 | [Apply](https://www.linkedin.com/jobs/view/software-developer-intern-tucson-az-at-ibm-4456521199) |
 | **IBM** | Power Backend Developer Intern - Rochester, MN & Austin, TX - 2027 | Rochester, MN | 2026-11-04 | [Apply](https://www.linkedin.com/jobs/view/power-backend-developer-intern-rochester-mn-austin-tx-2027-at-ibm-4459531204) |
 | **Heartland Business Systems** | Dynamics 365 CRM Engineering Associate - Summer 2027 Internship Program | Little Chute, WI | 2026-11-04 | [Apply](https://www.linkedin.com/jobs/view/dynamics-365-crm-engineering-associate-summer-2027-internship-program-at-heartland-business-systems-4459535052) |
@@ -1827,11 +1877,12 @@ Dayton, Ohio | Dayton, OH | 2026-10-10 | [Apply](https://www.linkedin.com/jobs/v
 | **General Dynamics Mission Systems** | Software/Systems Engineering Intern (Summer 2027) | Middletown, RI | 2026-10-08 | [Apply](https://www.linkedin.com/jobs/view/software-systems-engineering-intern-summer-2027-at-general-dynamics-mission-systems-4476220125) |
 | **SoloPulse** | Software Engineer Intern/Co-op - Spring 2027 | Peachtree Corners, GA | 2026-10-08 | [Apply](https://www.linkedin.com/jobs/view/software-engineer-intern-co-op-spring-2027-at-solopulse-4477492485) |
 
-## Game Design (47)
+## Game Design (48)
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| **Betasouls Inc.** 🆕 | Unity Game Development Intern - Mandarin Speaking | Irvine, CA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/unity-game-development-intern-mandarin-speaking-at-betasouls-inc-4486523539) |
+| **SSB Technology** 🆕 | Marketing Intern ( Online Games, Apps ) | San Francisco, CA | 2026-11-06 | [Apply](https://www.linkedin.com/jobs/view/marketing-intern-online-games-apps-at-ssb-technology-4486237608) |
+| **Betasouls Inc.** | Unity Game Development Intern - Mandarin Speaking | Irvine, CA | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/unity-game-development-intern-mandarin-speaking-at-betasouls-inc-4486523539) |
 | **Schneider Electric** | Security Systems Design Intern | Lyndhurst, NJ | 2026-11-03 | [Apply](https://www.linkedin.com/jobs/view/security-systems-design-intern-at-schneider-electric-4486093045) |
 | **Noblis** | Summer 2027 - Instructional Systems Design Intern | Springfield, VA | 2026-11-02 | [Apply](https://www.linkedin.com/jobs/view/summer-2027-instructional-systems-design-intern-at-noblis-4486465577) |
 | **Weissman** | Technical Design Intern | St Louis, MO | 2026-10-28 | [Apply](https://www.linkedin.com/jobs/view/technical-design-intern-at-weissman-4465576882) |
