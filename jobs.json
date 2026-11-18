@@ -1,15 +1,4 @@
 {
-  "3988440579": {
-    "apply_url": "https://www.linkedin.com/jobs/view/software-development-intern-at-sandhills-global-3988440579",
-    "category": "Software Engineering",
-    "company": "Sandhills Global",
-    "first_seen": "2026-10-18",
-    "id": "3988440579",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/software-development-intern-at-sandhills-global-3988440579",
-    "location": "Lincoln, NE",
-    "posted": "2026-10-18",
-    "title": "Software Development Intern"
-  },
   "4007124554": {
     "apply_url": "https://www.linkedin.com/jobs/view/software-development-intern-at-sandhills-global-4007124554",
     "category": "Software Engineering",
@@ -153,17 +142,6 @@
     "posted": "2026-10-19",
     "title": "Software Engineer Intern, Infrastructure"
   },
-  "4416595142": {
-    "apply_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-robotics-at-neuralink-4416595142",
-    "category": "Software Engineering",
-    "company": "Neuralink",
-    "first_seen": "2026-10-18",
-    "id": "4416595142",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-robotics-at-neuralink-4416595142",
-    "location": "South San Francisco, CA",
-    "posted": "2026-10-18",
-    "title": "Software Engineer Intern, Robotics"
-  },
   "4416700269": {
     "apply_url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-intern-implant-embedded-systems-at-neuralink-4416700269",
     "category": "Software Engineering",
@@ -174,17 +152,6 @@
     "location": "Austin, TX",
     "posted": "2026-10-20",
     "title": "Embedded Software Engineer Intern, Implant Embedded Systems"
-  },
-  "4416708093": {
-    "apply_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-robotics-at-neuralink-4416708093",
-    "category": "Software Engineering",
-    "company": "Neuralink",
-    "first_seen": "2026-10-18",
-    "id": "4416708093",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-robotics-at-neuralink-4416708093",
-    "location": "Austin, TX",
-    "posted": "2026-10-18",
-    "title": "Software Engineer Intern, Robotics"
   },
   "4416709106": {
     "apply_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-internal-apps-at-neuralink-4416709106",
@@ -692,6 +659,17 @@
     "posted": "2026-10-21",
     "title": "Frontend Engineer Intern (Global CRM) - 2027 Summer"
   },
+  "4448305930": {
+    "apply_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-engineering-embedded-systems-at-hubbell-incorporated-4448305930",
+    "category": "Software Engineering",
+    "company": "Hubbell Incorporated",
+    "first_seen": "2026-11-18",
+    "id": "4448305930",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-engineering-embedded-systems-at-hubbell-incorporated-4448305930",
+    "location": "Portsmouth, NH",
+    "posted": "2026-11-18",
+    "title": "2027 Summer Intern: Engineering - Embedded Systems"
+  },
   "4448459357": {
     "apply_url": "https://www.linkedin.com/jobs/view/summer-co-op-engineer-at-mpr-associates-inc-4448459357",
     "category": "Software Engineering",
@@ -791,17 +769,6 @@
     "posted": "2026-11-01",
     "title": "Summer 2027 AI/ML Engineering Intern"
   },
-  "4450828383": {
-    "apply_url": "https://www.linkedin.com/jobs/view/intern-application-developer-oracle-2027-at-ibm-4450828383",
-    "category": "Software Engineering",
-    "company": "IBM",
-    "first_seen": "2026-10-18",
-    "id": "4450828383",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/intern-application-developer-oracle-2027-at-ibm-4450828383",
-    "location": "Baton Rouge, LA",
-    "posted": "2026-10-18",
-    "title": "Intern Application Developer - Oracle - 2027"
-  },
   "4450856236": {
     "apply_url": "https://www.linkedin.com/jobs/view/intern-application-developer-2027-servicenow-at-ibm-4450856236",
     "category": "Software Engineering",
@@ -812,17 +779,6 @@
     "location": "Research Park, CA",
     "posted": "2026-10-21",
     "title": "Intern Application Developer 2027-ServiceNow"
-  },
-  "4450860194": {
-    "apply_url": "https://www.linkedin.com/jobs/view/intern-application-developer-%E2%80%93-salesforce-2027-at-ibm-4450860194",
-    "category": "Software Engineering",
-    "company": "IBM",
-    "first_seen": "2026-10-18",
-    "id": "4450860194",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/intern-application-developer-%E2%80%93-salesforce-2027-at-ibm-4450860194",
-    "location": "Baton Rouge, LA",
-    "posted": "2026-10-18",
-    "title": "Intern Application Developer \u2013 Salesforce - 2027"
   },
   "4450862159": {
     "apply_url": "https://www.linkedin.com/jobs/view/intern-application-developer-2027-servicenow-at-ibm-4450862159",
@@ -857,17 +813,6 @@
     "posted": "2026-11-02",
     "title": "Technical Sales Engineer Intern - Entry-Level Sales Program 2027"
   },
-  "4451222613": {
-    "apply_url": "https://www.linkedin.com/jobs/view/co-op-developer-%E2%80%93-adobe-2027-at-ibm-4451222613",
-    "category": "Software Engineering",
-    "company": "IBM",
-    "first_seen": "2026-10-18",
-    "id": "4451222613",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/co-op-developer-%E2%80%93-adobe-2027-at-ibm-4451222613",
-    "location": "University Park, TX",
-    "posted": "2026-10-18",
-    "title": "Co-Op Developer \u2013 Adobe 2027"
-  },
   "4451251862": {
     "apply_url": "https://www.linkedin.com/jobs/view/intern-data-engineer-data-services-2027-at-ibm-4451251862",
     "category": "Software Engineering",
@@ -878,17 +823,6 @@
     "location": "Monroe, MI",
     "posted": "2026-11-08",
     "title": "Intern Data Engineer - Data Services - 2027"
-  },
-  "4451254860": {
-    "apply_url": "https://www.linkedin.com/jobs/view/intern-developer-%E2%80%93-adobe-2027-at-ibm-4451254860",
-    "category": "Software Engineering",
-    "company": "IBM",
-    "first_seen": "2026-10-18",
-    "id": "4451254860",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/intern-developer-%E2%80%93-adobe-2027-at-ibm-4451254860",
-    "location": "New York, United States",
-    "posted": "2026-10-18",
-    "title": "Intern Developer \u2013 Adobe 2027"
   },
   "4451257884": {
     "apply_url": "https://www.linkedin.com/jobs/view/intern-data-engineer-data-services-2027-at-ibm-4451257884",
@@ -967,17 +901,6 @@
     "posted": "2026-10-22",
     "title": "Intern Application Developer \u2013 Azure and Microsoft - 2027"
   },
-  "4453575356": {
-    "apply_url": "https://www.linkedin.com/jobs/view/intern-digital-ip-design-engineer-dram-at-micron-technology-4453575356",
-    "category": "Software Engineering",
-    "company": "Micron Technology",
-    "first_seen": "2026-10-18",
-    "id": "4453575356",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/intern-digital-ip-design-engineer-dram-at-micron-technology-4453575356",
-    "location": "Boise, ID",
-    "posted": "2026-10-18",
-    "title": "Intern - Digital IP Design Engineer, DRAM"
-  },
   "4453800016": {
     "apply_url": "https://www.linkedin.com/jobs/view/software-developer-intern-2027-at-ibm-4453800016",
     "category": "Software Engineering",
@@ -1010,17 +933,6 @@
     "location": "New York, NY",
     "posted": "2026-10-20",
     "title": "Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- New York, NY"
-  },
-  "4454320043": {
-    "apply_url": "https://www.linkedin.com/jobs/view/technical-sales-engineering-intern-it-channel-summer-2027-at-vertiv-4454320043",
-    "category": "Software Engineering",
-    "company": "Vertiv",
-    "first_seen": "2026-10-18",
-    "id": "4454320043",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/technical-sales-engineering-intern-it-channel-summer-2027-at-vertiv-4454320043",
-    "location": "Columbus, OH",
-    "posted": "2026-10-18",
-    "title": "Technical Sales Engineering Intern - IT Channel (Summer 2027)"
   },
   "4454401667": {
     "apply_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-implant-at-neuralink-4454401667",
@@ -1109,50 +1021,6 @@
     "location": "New York, NY",
     "posted": "2026-10-20",
     "title": "Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- New York, NY"
-  },
-  "4454590867": {
-    "apply_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-notion-4454590867",
-    "category": "Software Engineering",
-    "company": "Notion",
-    "first_seen": "2026-10-18",
-    "id": "4454590867",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-notion-4454590867",
-    "location": "New York, NY",
-    "posted": "2026-10-18",
-    "title": "Software Engineer Intern (Summer 2027)"
-  },
-  "4454590868": {
-    "apply_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-winter-2027-at-notion-4454590868",
-    "category": "Software Engineering",
-    "company": "Notion",
-    "first_seen": "2026-10-18",
-    "id": "4454590868",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-winter-2027-at-notion-4454590868",
-    "location": "San Francisco, CA",
-    "posted": "2026-10-18",
-    "title": "Software Engineer Intern (Winter 2027)"
-  },
-  "4454592847": {
-    "apply_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-notion-4454592847",
-    "category": "Software Engineering",
-    "company": "Notion",
-    "first_seen": "2026-10-18",
-    "id": "4454592847",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-notion-4454592847",
-    "location": "San Francisco, CA",
-    "posted": "2026-10-18",
-    "title": "Software Engineer Intern (Summer 2027)"
-  },
-  "4454593886": {
-    "apply_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-winter-2027-at-notion-4454593886",
-    "category": "Software Engineering",
-    "company": "Notion",
-    "first_seen": "2026-10-18",
-    "id": "4454593886",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-winter-2027-at-notion-4454593886",
-    "location": "New York, NY",
-    "posted": "2026-10-18",
-    "title": "Software Engineer Intern (Winter 2027)"
   },
   "4454926837": {
     "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-at-tractian-4454926837",
@@ -1704,6 +1572,17 @@
     "posted": "2026-10-21",
     "title": "Software Engineer Intern"
   },
+  "4458532704": {
+    "apply_url": "https://www.linkedin.com/jobs/view/ai-developer-intern-at-monolithic-power-systems-4458532704",
+    "category": "Software Engineering",
+    "company": "Monolithic Power Systems",
+    "first_seen": "2026-11-18",
+    "id": "4458532704",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/ai-developer-intern-at-monolithic-power-systems-4458532704",
+    "location": "San Jose, CA",
+    "posted": "2026-11-18",
+    "title": "AI Developer Intern"
+  },
   "4459029138": {
     "apply_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-the-voleon-group-4459029138",
     "category": "Software Engineering",
@@ -1957,17 +1836,6 @@
     "posted": "2026-10-31",
     "title": "Embedded Engineering Intern - Summer 2027"
   },
-  "4461195649": {
-    "apply_url": "https://www.linkedin.com/jobs/view/application-engineer-intern-ms-summer-2027-at-marvell-technology-4461195649",
-    "category": "Software Engineering",
-    "company": "Marvell Technology",
-    "first_seen": "2026-10-18",
-    "id": "4461195649",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/application-engineer-intern-ms-summer-2027-at-marvell-technology-4461195649",
-    "location": "Westlake Village, CA",
-    "posted": "2026-10-18",
-    "title": "Application Engineer Intern, MS - Summer 2027"
-  },
   "4461324267": {
     "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-graduate-at-intel-4461324267",
     "category": "Software Engineering",
@@ -2001,17 +1869,6 @@
     "posted": "2026-11-06",
     "title": "Artificial Intelligence (AI) Engineering Intern"
   },
-  "4461419174": {
-    "apply_url": "https://www.linkedin.com/jobs/view/summer-2027-feature-engineer-internship-at-nationwide-4461419174",
-    "category": "Software Engineering",
-    "company": "Nationwide",
-    "first_seen": "2026-10-18",
-    "id": "4461419174",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/summer-2027-feature-engineer-internship-at-nationwide-4461419174",
-    "location": "Columbus, OH",
-    "posted": "2026-10-18",
-    "title": "Summer 2027 Feature Engineer Internship"
-  },
   "4461431155": {
     "apply_url": "https://www.linkedin.com/jobs/view/technology-internship-program-ai-engineering-at-cna-insurance-4461431155",
     "category": "Software Engineering",
@@ -2022,17 +1879,6 @@
     "location": "Chicago, IL",
     "posted": "2026-11-08",
     "title": "Technology Internship Program (AI Engineering)"
-  },
-  "4461452052": {
-    "apply_url": "https://www.linkedin.com/jobs/view/firmware-engineer-intern-bs-summer-2027-at-marvell-technology-4461452052",
-    "category": "Software Engineering",
-    "company": "Marvell Technology",
-    "first_seen": "2026-10-18",
-    "id": "4461452052",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/firmware-engineer-intern-bs-summer-2027-at-marvell-technology-4461452052",
-    "location": "Santa Clara, CA",
-    "posted": "2026-10-18",
-    "title": "Firmware Engineer Intern, BS - Summer 2027"
   },
   "4461455006": {
     "apply_url": "https://www.linkedin.com/jobs/view/firmware-engineer-intern-bs-summer-2027-at-marvell-technology-4461455006",
@@ -2099,50 +1945,6 @@
     "location": "Yorktown Heights, NY",
     "posted": "2026-10-21",
     "title": "Software Developer - Security - Intern 2027"
-  },
-  "4462342718": {
-    "apply_url": "https://www.linkedin.com/jobs/view/software-development-intern-rr-at-hdr-4462342718",
-    "category": "Software Engineering",
-    "company": "HDR",
-    "first_seen": "2026-10-18",
-    "id": "4462342718",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/software-development-intern-rr-at-hdr-4462342718",
-    "location": "Round Rock, TX",
-    "posted": "2026-10-18",
-    "title": "Software Development Intern-RR"
-  },
-  "4462350505": {
-    "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-connected-systems-january-august-2027-at-rivian-and-volkswagen-group-technologies-4462350505",
-    "category": "Software Engineering",
-    "company": "Rivian and Volkswagen Group Technologies",
-    "first_seen": "2026-10-18",
-    "id": "4462350505",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-connected-systems-january-august-2027-at-rivian-and-volkswagen-group-technologies-4462350505",
-    "location": "Palo Alto, CA",
-    "posted": "2026-10-18",
-    "title": "Software Engineering Intern - Connected Systems (January - August 2027)"
-  },
-  "4462367332": {
-    "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-applications-infotainment-mobile-january-august-2027-at-rivian-and-volkswagen-group-technologies-4462367332",
-    "category": "Software Engineering",
-    "company": "Rivian and Volkswagen Group Technologies",
-    "first_seen": "2026-10-18",
-    "id": "4462367332",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-applications-infotainment-mobile-january-august-2027-at-rivian-and-volkswagen-group-technologies-4462367332",
-    "location": "Irvine, CA",
-    "posted": "2026-10-18",
-    "title": "Software Engineering Intern - Applications, Infotainment & Mobile (January - August 2027)"
-  },
-  "4462369488": {
-    "apply_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-bci-applications-at-neuralink-4462369488",
-    "category": "Software Engineering",
-    "company": "Neuralink",
-    "first_seen": "2026-10-18",
-    "id": "4462369488",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-bci-applications-at-neuralink-4462369488",
-    "location": "South San Francisco, CA",
-    "posted": "2026-10-18",
-    "title": "Software Engineer Intern, BCI Applications"
   },
   "4462533638": {
     "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-at-beckman-coulter-diagnostics-4462533638",
@@ -2287,17 +2089,6 @@
     "posted": "2026-10-19",
     "title": "Data Engineering Intern"
   },
-  "4462689013": {
-    "apply_url": "https://www.linkedin.com/jobs/view/data-engineering-intern-at-greystar-4462689013",
-    "category": "Software Engineering",
-    "company": "Greystar",
-    "first_seen": "2026-10-18",
-    "id": "4462689013",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/data-engineering-intern-at-greystar-4462689013",
-    "location": "Charleston, SC",
-    "posted": "2026-10-18",
-    "title": "Data Engineering Intern"
-  },
   "4463055339": {
     "apply_url": "https://www.linkedin.com/jobs/view/embedded-software-engineering-co-op-iii-summer-fall-2027-navigation-and-sensor-systems-at-bae-systems-inc-4463055339",
     "category": "Software Engineering",
@@ -2374,17 +2165,6 @@
     "location": "Boise, ID",
     "posted": "2026-10-21",
     "title": "Intern - DRAM Customer Enablement Engineering"
-  },
-  "4463329388": {
-    "apply_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-platforms-engineer-at-spectrum-4463329388",
-    "category": "Software Engineering",
-    "company": "Spectrum",
-    "first_seen": "2026-10-18",
-    "id": "4463329388",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-platforms-engineer-at-spectrum-4463329388",
-    "location": "St Louis, MO",
-    "posted": "2026-10-18",
-    "title": "2027 Summer Intern: Platforms Engineer"
   },
   "4463332783": {
     "apply_url": "https://www.linkedin.com/jobs/view/software-development-engineer-intern-co-op-robotics-2027-at-amazon-4463332783",
@@ -2573,17 +2353,6 @@
     "posted": "2026-11-09",
     "title": "Engineering Co-op - Summer 2027"
   },
-  "4463603697": {
-    "apply_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-aviation-web-development-at-garmin-4463603697",
-    "category": "Software Engineering",
-    "company": "Garmin",
-    "first_seen": "2026-10-18",
-    "id": "4463603697",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-aviation-web-development-at-garmin-4463603697",
-    "location": "Middlebury, CT",
-    "posted": "2026-10-18",
-    "title": "Software Engineer Intern - Aviation Web Development"
-  },
   "4463603874": {
     "apply_url": "https://www.linkedin.com/jobs/view/engineering-co-op-spring-2027-at-rovisys-4463603874",
     "category": "Software Engineering",
@@ -2604,28 +2373,6 @@
     "linkedin_url": "https://www.linkedin.com/jobs/view/engineering-co-op-spring-2027-at-rovisys-4463603876",
     "location": "Holly Springs, NC",
     "posted": "2026-11-08",
-    "title": "Engineering Co-op - Spring 2027"
-  },
-  "4463607202": {
-    "apply_url": "https://www.linkedin.com/jobs/view/ge-vernova-project-engineer-intern-summer-2027-at-ge-vernova-4463607202",
-    "category": "Software Engineering",
-    "company": "GE Vernova",
-    "first_seen": "2026-10-18",
-    "id": "4463607202",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/ge-vernova-project-engineer-intern-summer-2027-at-ge-vernova-4463607202",
-    "location": "Bellevue, WA",
-    "posted": "2026-10-18",
-    "title": "GE Vernova - Project Engineer Intern - Summer 2027"
-  },
-  "4463607804": {
-    "apply_url": "https://www.linkedin.com/jobs/view/engineering-co-op-spring-2027-at-rovisys-4463607804",
-    "category": "Software Engineering",
-    "company": "RoviSys",
-    "first_seen": "2026-10-18",
-    "id": "4463607804",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/engineering-co-op-spring-2027-at-rovisys-4463607804",
-    "location": "Portage, MI",
-    "posted": "2026-10-18",
     "title": "Engineering Co-op - Spring 2027"
   },
   "4463609732": {
@@ -2649,28 +2396,6 @@
     "location": "Peachtree City, GA",
     "posted": "2026-11-09",
     "title": "Engineering Co-op - Summer 2027"
-  },
-  "4463611737": {
-    "apply_url": "https://www.linkedin.com/jobs/view/engineering-co-op-summer-2027-at-rovisys-4463611737",
-    "category": "Software Engineering",
-    "company": "RoviSys",
-    "first_seen": "2026-10-18",
-    "id": "4463611737",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/engineering-co-op-summer-2027-at-rovisys-4463611737",
-    "location": "Holly Springs, NC",
-    "posted": "2026-10-18",
-    "title": "Engineering Co-op - Summer 2027"
-  },
-  "4463614621": {
-    "apply_url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-intern-1-at-cnh-4463614621",
-    "category": "Software Engineering",
-    "company": "CNH",
-    "first_seen": "2026-10-18",
-    "id": "4463614621",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-intern-1-at-cnh-4463614621",
-    "location": "New Holland, PA",
-    "posted": "2026-10-18",
-    "title": "Embedded Software Engineer Intern 1"
   },
   "4463615637": {
     "apply_url": "https://www.linkedin.com/jobs/view/engineering-co-op-summer-2027-at-rovisys-4463615637",
@@ -2704,72 +2429,6 @@
     "location": "Thousand Oaks, CA",
     "posted": "2026-11-08",
     "title": "Engineering Co-op - Summer 2027"
-  },
-  "4463653708": {
-    "apply_url": "https://www.linkedin.com/jobs/view/aircraft-software-integration-intern-summer-2027-at-zipline-4463653708",
-    "category": "Software Engineering",
-    "company": "Zipline",
-    "first_seen": "2026-10-18",
-    "id": "4463653708",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/aircraft-software-integration-intern-summer-2027-at-zipline-4463653708",
-    "location": "South San Francisco, CA",
-    "posted": "2026-10-18",
-    "title": "Aircraft Software Integration Intern (Summer 2027)"
-  },
-  "4463664998": {
-    "apply_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-automotive-oem-at-garmin-4463664998",
-    "category": "Software Engineering",
-    "company": "Garmin",
-    "first_seen": "2026-10-18",
-    "id": "4463664998",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-automotive-oem-at-garmin-4463664998",
-    "location": "Novi, MI",
-    "posted": "2026-10-18",
-    "title": "Software Engineer Intern - Automotive OEM"
-  },
-  "4463671181": {
-    "apply_url": "https://www.linkedin.com/jobs/view/sales-development-engineering-intern-at-emerson-4463671181",
-    "category": "Software Engineering",
-    "company": "Emerson",
-    "first_seen": "2026-10-18",
-    "id": "4463671181",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/sales-development-engineering-intern-at-emerson-4463671181",
-    "location": "Austin, TX",
-    "posted": "2026-10-18",
-    "title": "Sales Development Engineering Intern"
-  },
-  "4463678579": {
-    "apply_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-at-cnh-4463678579",
-    "category": "Software Engineering",
-    "company": "CNH",
-    "first_seen": "2026-10-18",
-    "id": "4463678579",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-at-cnh-4463678579",
-    "location": "Tempe, AZ",
-    "posted": "2026-10-18",
-    "title": "Software Engineer Intern"
-  },
-  "4463709485": {
-    "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-at-nuvo-4463709485",
-    "category": "Software Engineering",
-    "company": "Nuvo",
-    "first_seen": "2026-10-18",
-    "id": "4463709485",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-at-nuvo-4463709485",
-    "location": "New York, NY",
-    "posted": "2026-10-18",
-    "title": "Software Engineering Intern"
-  },
-  "4463732143": {
-    "apply_url": "https://www.linkedin.com/jobs/view/drafting-and-technical-design-internship-at-enclos-4463732143",
-    "category": "Game Design",
-    "company": "Enclos",
-    "first_seen": "2026-10-18",
-    "id": "4463732143",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/drafting-and-technical-design-internship-at-enclos-4463732143",
-    "location": "Bloomington, MN",
-    "posted": "2026-10-18",
-    "title": "Drafting and Technical Design Internship"
   },
   "4463896027": {
     "apply_url": "https://www.linkedin.com/jobs/view/2027-spring-software-engineering-undergraduate-intern-co-op-r20377-at-mks-inc-4463896027",
@@ -3375,6 +3034,17 @@
     "location": "Georgia, United States",
     "posted": "2026-10-25",
     "title": "AI & Automation Engineering Intern - Summer 2027"
+  },
+  "4465222793": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-developer-intern-iii-summer-2027-onsite-at-bae-systems-inc-4465222793",
+    "category": "Software Engineering",
+    "company": "BAE Systems, Inc.",
+    "first_seen": "2026-11-18",
+    "id": "4465222793",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-developer-intern-iii-summer-2027-onsite-at-bae-systems-inc-4465222793",
+    "location": "Rome, NY",
+    "posted": "2026-11-18",
+    "title": "Software Developer Intern III, Summer 2027 (Onsite)"
   },
   "4465251704": {
     "apply_url": "https://www.linkedin.com/jobs/view/software-engineer-fde-platform-intern-at-charta-health-4465251704",
@@ -4267,6 +3937,17 @@
     "posted": "2026-10-29",
     "title": "Software Development Engineering Intern"
   },
+  "4466597016": {
+    "apply_url": "https://www.linkedin.com/jobs/view/2027-information-engineering-systems-intern-at-mercury-systems-4466597016",
+    "category": "Software Engineering",
+    "company": "Mercury Systems",
+    "first_seen": "2026-11-18",
+    "id": "4466597016",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/2027-information-engineering-systems-intern-at-mercury-systems-4466597016",
+    "location": "Andover, MA",
+    "posted": "2026-11-18",
+    "title": "2027 Information & Engineering Systems Intern"
+  },
   "4466701128": {
     "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-at-l3harris-technologies-4466701128",
     "category": "Software Engineering",
@@ -4531,6 +4212,17 @@
     "posted": "2026-11-07",
     "title": "Intern - Software Development Engineer"
   },
+  "4467715984": {
+    "apply_url": "https://www.linkedin.com/jobs/view/summer-2027-software-engineering-intern-cybersecurity-at-intuit-4467715984",
+    "category": "Software Engineering",
+    "company": "Intuit",
+    "first_seen": "2026-11-18",
+    "id": "4467715984",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/summer-2027-software-engineering-intern-cybersecurity-at-intuit-4467715984",
+    "location": "Mountain View, CA",
+    "posted": "2026-11-18",
+    "title": "Summer 2027: Software Engineering Intern - Cybersecurity"
+  },
   "4467723063": {
     "apply_url": "https://www.linkedin.com/jobs/view/summer-2027-software-engineering-intern-full-stack-at-intuit-4467723063",
     "category": "Software Engineering",
@@ -4562,6 +4254,17 @@
     "linkedin_url": "https://www.linkedin.com/jobs/view/summer-2027-software-engineering-intern-full-stack-at-intuit-4467726049",
     "location": "San Diego, CA",
     "posted": "2026-10-27",
+    "title": "Summer 2027: Software Engineering Intern - Full Stack"
+  },
+  "4467727046": {
+    "apply_url": "https://www.linkedin.com/jobs/view/summer-2027-software-engineering-intern-full-stack-at-intuit-4467727046",
+    "category": "Software Engineering",
+    "company": "Intuit",
+    "first_seen": "2026-11-18",
+    "id": "4467727046",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/summer-2027-software-engineering-intern-full-stack-at-intuit-4467727046",
+    "location": "Charlotte, NC",
+    "posted": "2026-11-18",
     "title": "Summer 2027: Software Engineering Intern - Full Stack"
   },
   "4467729470": {
@@ -5124,17 +4827,6 @@
     "location": "San Francisco, CA",
     "posted": "2026-11-10",
     "title": "2027 Summer Intern, MS/PhD, Perception Systems Engineering: Pedestrian Detection Precision"
-  },
-  "4471563676": {
-    "apply_url": "https://www.linkedin.com/jobs/view/engineering-intern-at-hawaiian-telcom-4471563676",
-    "category": "Software Engineering",
-    "company": "Hawaiian Telcom",
-    "first_seen": "2026-10-18",
-    "id": "4471563676",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/engineering-intern-at-hawaiian-telcom-4471563676",
-    "location": "Honolulu, HI",
-    "posted": "2026-10-18",
-    "title": "Engineering Intern"
   },
   "4471564502": {
     "apply_url": "https://www.linkedin.com/jobs/view/software-development-intern-summer-2027-at-tyler-technologies-4471564502",
@@ -6566,6 +6258,17 @@
     "posted": "2026-10-27",
     "title": "Software Engineer Internship - Summer 2027"
   },
+  "4474636290": {
+    "apply_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-bs-ms-phd-software-engineer-eval-data-infra-at-waymo-4474636290",
+    "category": "Software Engineering",
+    "company": "Waymo",
+    "first_seen": "2026-11-18",
+    "id": "4474636290",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/2027-summer-intern-bs-ms-phd-software-engineer-eval-data-infra-at-waymo-4474636290",
+    "location": "Mountain View, CA",
+    "posted": "2026-11-18",
+    "title": "2027 Summer Intern, BS/MS/PhD, Software Engineer, Eval Data Infra"
+  },
   "4474656980": {
     "apply_url": "https://www.linkedin.com/jobs/view/engineering-intern-ai-ml-asic-cad-spring-2027-co-op-at-rivian-4474656980",
     "category": "Software Engineering",
@@ -7281,6 +6984,17 @@
     "posted": "2026-10-28",
     "title": "Software Development Engineer Intern (San Jose, CA)"
   },
+  "4476585579": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-at-meta-4476585579",
+    "category": "Software Engineering",
+    "company": "Meta",
+    "first_seen": "2026-11-18",
+    "id": "4476585579",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-at-meta-4476585579",
+    "location": "Bellevue, WA",
+    "posted": "2026-11-18",
+    "title": "Software Engineering Intern"
+  },
   "4476591211": {
     "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-at-meta-4476591211",
     "category": "Software Engineering",
@@ -7313,6 +7027,17 @@
     "location": "Seattle, WA",
     "posted": "2026-10-28",
     "title": "Internship - Software Engineering"
+  },
+  "4476595061": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-systems-and-infrastructure-phd-at-meta-4476595061",
+    "category": "Software Engineering",
+    "company": "Meta",
+    "first_seen": "2026-11-18",
+    "id": "4476595061",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-systems-and-infrastructure-phd-at-meta-4476595061",
+    "location": "New York, NY",
+    "posted": "2026-11-18",
+    "title": "Software Engineer Intern, Systems and Infrastructure (PhD)"
   },
   "4476596042": {
     "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-at-meta-4476596042",
@@ -7610,39 +7335,6 @@
     "location": "Santa Clara, CA",
     "posted": "2026-11-04",
     "title": "Enterprise Platform Technical Marketing Engineer Intern - Summer 2027"
-  },
-  "4478213746": {
-    "apply_url": "https://www.linkedin.com/jobs/view/data-engineering-intern-at-bessemer-trust-4478213746",
-    "category": "Software Engineering",
-    "company": "Bessemer Trust",
-    "first_seen": "2026-10-18",
-    "id": "4478213746",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/data-engineering-intern-at-bessemer-trust-4478213746",
-    "location": "Woodbridge, NJ",
-    "posted": "2026-10-18",
-    "title": "Data Engineering Intern"
-  },
-  "4478218929": {
-    "apply_url": "https://www.linkedin.com/jobs/view/engineering-intern-at-valorantum-4478218929",
-    "category": "Software Engineering",
-    "company": "Valorantum",
-    "first_seen": "2026-10-18",
-    "id": "4478218929",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/engineering-intern-at-valorantum-4478218929",
-    "location": "Atlanta, GA",
-    "posted": "2026-10-18",
-    "title": "Engineering Intern"
-  },
-  "4478224275": {
-    "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-at-bessemer-trust-4478224275",
-    "category": "Software Engineering",
-    "company": "Bessemer Trust",
-    "first_seen": "2026-10-18",
-    "id": "4478224275",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-at-bessemer-trust-4478224275",
-    "location": "Woodbridge, NJ",
-    "posted": "2026-10-18",
-    "title": "Software Engineering Intern"
   },
   "4478287282": {
     "apply_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-lockheed-martin-4478287282",
@@ -8194,39 +7886,6 @@
     "posted": "2026-11-03",
     "title": "AI Engineering Intern"
   },
-  "4479923398": {
-    "apply_url": "https://www.linkedin.com/jobs/view/data-engineer-intern-co-op-at-plymouth-rock-assurance-4479923398",
-    "category": "Software Engineering",
-    "company": "Plymouth Rock Assurance",
-    "first_seen": "2026-10-18",
-    "id": "4479923398",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/data-engineer-intern-co-op-at-plymouth-rock-assurance-4479923398",
-    "location": "Greater Boston",
-    "posted": "2026-10-18",
-    "title": "Data Engineer Intern/Co-op"
-  },
-  "4479928135": {
-    "apply_url": "https://www.linkedin.com/jobs/view/engineering-intern-at-kearfott-corporation-4479928135",
-    "category": "Software Engineering",
-    "company": "Kearfott Corporation",
-    "first_seen": "2026-10-18",
-    "id": "4479928135",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/engineering-intern-at-kearfott-corporation-4479928135",
-    "location": "Pine Brook, NJ",
-    "posted": "2026-10-18",
-    "title": "ENGINEERING INTERN"
-  },
-  "4479931787": {
-    "apply_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-at-haystack-4479931787",
-    "category": "Software Engineering",
-    "company": "Haystack",
-    "first_seen": "2026-10-19",
-    "id": "4479931787",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-at-haystack-4479931787",
-    "location": "United States",
-    "posted": "2026-10-18",
-    "title": "Software Engineer Intern"
-  },
   "4479950293": {
     "apply_url": "https://www.linkedin.com/jobs/view/engineering-intern-at-wardstone-4479950293",
     "category": "Software Engineering",
@@ -8667,83 +8326,6 @@
     "posted": "2026-10-21",
     "title": "Intern Agentic AI Software Engineering"
   },
-  "4480857823": {
-    "apply_url": "https://www.linkedin.com/jobs/view/2027-software-engineering-intern-aurora-co-at-northrop-grumman-4480857823",
-    "category": "Software Engineering",
-    "company": "Northrop Grumman",
-    "first_seen": "2026-10-18",
-    "id": "4480857823",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/2027-software-engineering-intern-aurora-co-at-northrop-grumman-4480857823",
-    "location": "Aurora, CO",
-    "posted": "2026-10-18",
-    "title": "2027 Software Engineering Intern - Aurora CO"
-  },
-  "4480860606": {
-    "apply_url": "https://www.linkedin.com/jobs/view/2027-software-engineering-intern-boulder-co-at-northrop-grumman-4480860606",
-    "category": "Software Engineering",
-    "company": "Northrop Grumman",
-    "first_seen": "2026-10-18",
-    "id": "4480860606",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/2027-software-engineering-intern-boulder-co-at-northrop-grumman-4480860606",
-    "location": "Boulder, CO",
-    "posted": "2026-10-18",
-    "title": "2027 Software Engineering Intern - Boulder CO"
-  },
-  "4480860616": {
-    "apply_url": "https://www.linkedin.com/jobs/view/2027-software-engineering-intern-aurora-co-at-northrop-grumman-4480860616",
-    "category": "Software Engineering",
-    "company": "Northrop Grumman",
-    "first_seen": "2026-10-18",
-    "id": "4480860616",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/2027-software-engineering-intern-aurora-co-at-northrop-grumman-4480860616",
-    "location": "Aurora, CO",
-    "posted": "2026-10-18",
-    "title": "2027 Software Engineering Intern - Aurora CO"
-  },
-  "4480874811": {
-    "apply_url": "https://www.linkedin.com/jobs/view/frontend-development-intern-at-novaedge-digital-labs-4480874811",
-    "category": "Software Engineering",
-    "company": "NovaEdge Digital Labs",
-    "first_seen": "2026-10-18",
-    "id": "4480874811",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/frontend-development-intern-at-novaedge-digital-labs-4480874811",
-    "location": "United States",
-    "posted": "2026-10-18",
-    "title": "Frontend Development Intern"
-  },
-  "4480883702": {
-    "apply_url": "https://www.linkedin.com/jobs/view/software-project-engineer-intern-summer-2027-at-toyota-automated-logistics-4480883702",
-    "category": "Software Engineering",
-    "company": "Toyota Automated Logistics",
-    "first_seen": "2026-10-18",
-    "id": "4480883702",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/software-project-engineer-intern-summer-2027-at-toyota-automated-logistics-4480883702",
-    "location": "Louisville, KY",
-    "posted": "2026-10-18",
-    "title": "Software Project Engineer Intern (Summer 2027)"
-  },
-  "4480887862": {
-    "apply_url": "https://www.linkedin.com/jobs/view/backend-developer-intern-at-taskverse-4480887862",
-    "category": "Software Engineering",
-    "company": "TaskVerse",
-    "first_seen": "2026-10-18",
-    "id": "4480887862",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/backend-developer-intern-at-taskverse-4480887862",
-    "location": "United States",
-    "posted": "2026-10-18",
-    "title": "Backend Developer Intern"
-  },
-  "4480903456": {
-    "apply_url": "https://www.linkedin.com/jobs/view/web-developer-intern-at-taskverse-4480903456",
-    "category": "Software Engineering",
-    "company": "TaskVerse",
-    "first_seen": "2026-10-18",
-    "id": "4480903456",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/web-developer-intern-at-taskverse-4480903456",
-    "location": "United States",
-    "posted": "2026-10-18",
-    "title": "Web Developer Intern"
-  },
   "4480914832": {
     "apply_url": "https://www.linkedin.com/jobs/view/early-careers-finance-application-developer-intern-at-health-care-service-corporation-4480914832",
     "category": "Software Engineering",
@@ -8754,17 +8336,6 @@
     "location": "Chicago, IL",
     "posted": "2026-10-19",
     "title": "Early Careers - Finance Application Developer Intern"
-  },
-  "4480915255": {
-    "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-internship-at-elevated-web-design-4480915255",
-    "category": "Software Engineering",
-    "company": "Elevated Web Design",
-    "first_seen": "2026-10-18",
-    "id": "4480915255",
-    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineering-internship-at-elevated-web-design-4480915255",
-    "location": "United States",
-    "posted": "2026-10-18",
-    "title": "Software Engineering Internship"
   },
   "4480917649": {
     "apply_url": "https://www.linkedin.com/jobs/view/early-careers-finance-data-analytics-developer-intern-at-health-care-service-corporation-4480917649",
@@ -10349,6 +9920,17 @@
     "location": "United States",
     "posted": "2026-10-28",
     "title": "Internship, Software Engineer"
+  },
+  "4482289188": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-applications-development-intern-summer-2027-at-lcra-4482289188",
+    "category": "Software Engineering",
+    "company": "LCRA",
+    "first_seen": "2026-11-18",
+    "id": "4482289188",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-applications-development-intern-summer-2027-at-lcra-4482289188",
+    "location": "Austin, TX",
+    "posted": "2026-11-18",
+    "title": "Software Applications Development Intern (Summer 2027)"
   },
   "4482311882": {
     "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-at-stored-energy-systems-llc-sens-4482311882",
@@ -18941,6 +18523,72 @@
     "posted": "2026-11-13",
     "title": "June 2027 Co-Op - Software Engineer Intern"
   },
+  "4490811888": {
+    "apply_url": "https://www.linkedin.com/jobs/view/internship-sw-developer-support-program-management-office-at-lumentum-4490811888",
+    "category": "Software Engineering",
+    "company": "Lumentum",
+    "first_seen": "2026-11-18",
+    "id": "4490811888",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/internship-sw-developer-support-program-management-office-at-lumentum-4490811888",
+    "location": "San Jose, CA",
+    "posted": "2026-11-17",
+    "title": "Internship - SW Developer Support - Program Management Office"
+  },
+  "4490819325": {
+    "apply_url": "https://www.linkedin.com/jobs/view/ai-infrastructure-engineer-intern-ms-summer-2027-at-marvell-technology-4490819325",
+    "category": "Software Engineering",
+    "company": "Marvell Technology",
+    "first_seen": "2026-11-18",
+    "id": "4490819325",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/ai-infrastructure-engineer-intern-ms-summer-2027-at-marvell-technology-4490819325",
+    "location": "Santa Clara, CA",
+    "posted": "2026-11-17",
+    "title": "AI Infrastructure Engineer Intern, MS - Summer 2027"
+  },
+  "4490839213": {
+    "apply_url": "https://www.linkedin.com/jobs/view/ai-full-stack-development-intern-2027-at-pt-indorama-petrochemical-4490839213",
+    "category": "Software Engineering",
+    "company": "PT Indorama Petrochemical",
+    "first_seen": "2026-11-18",
+    "id": "4490839213",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/ai-full-stack-development-intern-2027-at-pt-indorama-petrochemical-4490839213",
+    "location": "Hilton Head Island, South Carolina Area",
+    "posted": "2026-11-18",
+    "title": "AI & Full-Stack Development Intern 2027"
+  },
+  "4490839475": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-developer-intern-summer-internship-program-at-cgi-4490839475",
+    "category": "Software Engineering",
+    "company": "CGI",
+    "first_seen": "2026-11-18",
+    "id": "4490839475",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-developer-intern-summer-internship-program-at-cgi-4490839475",
+    "location": "Lafayette, LA",
+    "posted": "2026-11-18",
+    "title": "Software Developer Intern - Summer Internship Program"
+  },
+  "4490840294": {
+    "apply_url": "https://www.linkedin.com/jobs/view/intern-software-development-engineer-at-gm-financial-4490840294",
+    "category": "Software Engineering",
+    "company": "GM Financial",
+    "first_seen": "2026-11-18",
+    "id": "4490840294",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/intern-software-development-engineer-at-gm-financial-4490840294",
+    "location": "Arlington, TX",
+    "posted": "2026-11-18",
+    "title": "Intern - Software Development Engineer"
+  },
+  "4490874749": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-caci-international-inc-4490874749",
+    "category": "Software Engineering",
+    "company": "CACI International Inc",
+    "first_seen": "2026-11-18",
+    "id": "4490874749",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-caci-international-inc-4490874749",
+    "location": "Sarasota, FL",
+    "posted": "2026-11-18",
+    "title": "Software Engineering Intern - Summer 2027"
+  },
   "4490901849": {
     "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-medical-device-healthcare-integration-at-analog-devices-4490901849",
     "category": "Software Engineering",
@@ -19403,6 +19051,17 @@
     "posted": "2026-11-14",
     "title": "Intern - Software Engineer (Cloud)"
   },
+  "4491101634": {
+    "apply_url": "https://www.linkedin.com/jobs/view/summer-2027-software-engineering-ai-intern-at-t-mobile-4491101634",
+    "category": "Software Engineering",
+    "company": "T-Mobile",
+    "first_seen": "2026-11-18",
+    "id": "4491101634",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/summer-2027-software-engineering-ai-intern-at-t-mobile-4491101634",
+    "location": "Atlanta, GA",
+    "posted": "2026-11-18",
+    "title": "Summer 2027 Software Engineering AI Intern"
+  },
   "4491107364": {
     "apply_url": "https://www.linkedin.com/jobs/view/summer-2027-software-engineer-internship-at-t-mobile-4491107364",
     "category": "Software Engineering",
@@ -19590,6 +19249,61 @@
     "posted": "2026-11-16",
     "title": "Internship, Software Engineer, Build & Simulation Platform (Winter/Spring 2027)"
   },
+  "4491300755": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-lockheed-martin-4491300755",
+    "category": "Software Engineering",
+    "company": "Lockheed Martin",
+    "first_seen": "2026-11-18",
+    "id": "4491300755",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-lockheed-martin-4491300755",
+    "location": "Highlands Ranch, CO",
+    "posted": "2026-11-18",
+    "title": "Software Engineering Intern - Summer 2027"
+  },
+  "4491300757": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-lockheed-martin-4491300757",
+    "category": "Software Engineering",
+    "company": "Lockheed Martin",
+    "first_seen": "2026-11-18",
+    "id": "4491300757",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-lockheed-martin-4491300757",
+    "location": "Highlands Ranch, CO",
+    "posted": "2026-11-18",
+    "title": "Software Engineering Intern - Summer 2027"
+  },
+  "4491308658": {
+    "apply_url": "https://www.linkedin.com/jobs/view/spring-2027-intern-software-engineering-at-wd-4491308658",
+    "category": "Software Engineering",
+    "company": "WD",
+    "first_seen": "2026-11-18",
+    "id": "4491308658",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/spring-2027-intern-software-engineering-at-wd-4491308658",
+    "location": "Irvine, CA",
+    "posted": "2026-11-18",
+    "title": "Spring 2027 Intern - Software Engineering"
+  },
+  "4491316179": {
+    "apply_url": "https://www.linkedin.com/jobs/view/junior-ai-engineering-intern-at-camping-world-4491316179",
+    "category": "Software Engineering",
+    "company": "Camping World",
+    "first_seen": "2026-11-18",
+    "id": "4491316179",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/junior-ai-engineering-intern-at-camping-world-4491316179",
+    "location": "Chicago, IL",
+    "posted": "2026-11-18",
+    "title": "Junior AI Engineering Intern"
+  },
+  "4491320556": {
+    "apply_url": "https://www.linkedin.com/jobs/view/product-engineering-intern-falcon-guardian-at-crowdstrike-4491320556",
+    "category": "Software Engineering",
+    "company": "CrowdStrike",
+    "first_seen": "2026-11-18",
+    "id": "4491320556",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/product-engineering-intern-falcon-guardian-at-crowdstrike-4491320556",
+    "location": "Sunnyvale, CA",
+    "posted": "2026-11-18",
+    "title": "Product Engineering Intern - Falcon Guardian"
+  },
   "4491407463": {
     "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-at-regency-centers-4491407463",
     "category": "Software Engineering",
@@ -19623,6 +19337,50 @@
     "posted": "2026-11-17",
     "title": "Software Engineering & DevOps Intern"
   },
+  "4491435421": {
+    "apply_url": "https://www.linkedin.com/jobs/view/intern-it-software-engineer-summer-2027-at-nelnet-4491435421",
+    "category": "Software Engineering",
+    "company": "Nelnet",
+    "first_seen": "2026-11-18",
+    "id": "4491435421",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/intern-it-software-engineer-summer-2027-at-nelnet-4491435421",
+    "location": "Lincoln, NE",
+    "posted": "2026-11-17",
+    "title": "Intern - IT Software Engineer (Summer 2027)"
+  },
+  "4491480788": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-developer-intern-c%23-at-imt-insurance-4491480788",
+    "category": "Software Engineering",
+    "company": "IMT Insurance",
+    "first_seen": "2026-11-18",
+    "id": "4491480788",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-developer-intern-c%23-at-imt-insurance-4491480788",
+    "location": "West Des Moines, IA",
+    "posted": "2026-11-18",
+    "title": "Software Developer Intern (C#)"
+  },
+  "4491486733": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-developer-intern-python-at-imt-insurance-4491486733",
+    "category": "Software Engineering",
+    "company": "IMT Insurance",
+    "first_seen": "2026-11-18",
+    "id": "4491486733",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-developer-intern-python-at-imt-insurance-4491486733",
+    "location": "West Des Moines, IA",
+    "posted": "2026-11-18",
+    "title": "Software Developer Intern (Python)"
+  },
+  "4491499249": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-programmer-intern-at-amentum-4491499249",
+    "category": "Software Engineering",
+    "company": "Amentum",
+    "first_seen": "2026-11-18",
+    "id": "4491499249",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-programmer-intern-at-amentum-4491499249",
+    "location": "Tullahoma, TN",
+    "posted": "2026-11-18",
+    "title": "Software Programmer Intern"
+  },
   "4491511725": {
     "apply_url": "https://www.linkedin.com/jobs/view/onshape-performance-engineering-intern-summer-2027-at-ptc-4491511725",
     "category": "Software Engineering",
@@ -19655,6 +19413,17 @@
     "location": "Mountain View, CA",
     "posted": "2026-11-16",
     "title": "Systems & Infrastructure Engineer Intern, Masters - Summer 2027 (Mountain View, CA)"
+  },
+  "4491540463": {
+    "apply_url": "https://www.linkedin.com/jobs/view/summer-2027-ai-engineering-internship-at-t-mobile-4491540463",
+    "category": "Software Engineering",
+    "company": "T-Mobile",
+    "first_seen": "2026-11-18",
+    "id": "4491540463",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/summer-2027-ai-engineering-internship-at-t-mobile-4491540463",
+    "location": "Bellevue, WA",
+    "posted": "2026-11-18",
+    "title": "Summer 2027 AI Engineering Internship"
   },
   "4491544160": {
     "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-at-irradiant-technologies-4491544160",
@@ -19832,6 +19601,17 @@
     "posted": "2026-11-17",
     "title": "Software Development Intern - Breakthrough"
   },
+  "4491738902": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-1-at-cnh-4491738902",
+    "category": "Software Engineering",
+    "company": "CNH",
+    "first_seen": "2026-11-18",
+    "id": "4491738902",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-1-at-cnh-4491738902",
+    "location": "Tempe, AZ",
+    "posted": "2026-11-17",
+    "title": "Software Engineer Intern 1"
+  },
   "4491746317": {
     "apply_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-real-time-aviation-data-at-garmin-4491746317",
     "category": "Software Engineering",
@@ -19853,5 +19633,280 @@
     "location": "Memphis, TN",
     "posted": "2026-11-17",
     "title": "Engineering Internship Program - 2026 - 2027 (I2CS - Memphis, TN)"
+  },
+  "4491751409": {
+    "apply_url": "https://www.linkedin.com/jobs/view/intern-software-engineer-ai-user-experience-at-rakuten-international-4491751409",
+    "category": "Software Engineering",
+    "company": "Rakuten International",
+    "first_seen": "2026-11-18",
+    "id": "4491751409",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/intern-software-engineer-ai-user-experience-at-rakuten-international-4491751409",
+    "location": "Bellevue, WA",
+    "posted": "2026-11-17",
+    "title": "Intern - Software Engineer, AI User Experience"
+  },
+  "4491753638": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-programmer-intern-at-amentum-4491753638",
+    "category": "Software Engineering",
+    "company": "Amentum",
+    "first_seen": "2026-11-18",
+    "id": "4491753638",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-programmer-intern-at-amentum-4491753638",
+    "location": "Detroit, MI",
+    "posted": "2026-11-17",
+    "title": "Software Programmer Intern"
+  },
+  "4491754457": {
+    "apply_url": "https://www.linkedin.com/jobs/view/university-2027-summer-games-software-developer-intern-mclean-va-at-booz-allen-hamilton-4491754457",
+    "category": "Software Engineering",
+    "company": "Booz Allen Hamilton",
+    "first_seen": "2026-11-18",
+    "id": "4491754457",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/university-2027-summer-games-software-developer-intern-mclean-va-at-booz-allen-hamilton-4491754457",
+    "location": "McLean, VA",
+    "posted": "2026-11-17",
+    "title": "University, 2027 Summer Games Software Developer Intern - McLean, VA"
+  },
+  "4491754827": {
+    "apply_url": "https://www.linkedin.com/jobs/view/2027-intern-software-engineer-electronic-systems-hunt-valley-md-at-textron-4491754827",
+    "category": "Software Engineering",
+    "company": "Textron",
+    "first_seen": "2026-11-18",
+    "id": "4491754827",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/2027-intern-software-engineer-electronic-systems-hunt-valley-md-at-textron-4491754827",
+    "location": "Hunt Valley, MD",
+    "posted": "2026-11-17",
+    "title": "2027 Intern - Software Engineer (Electronic Systems) - Hunt Valley, MD"
+  },
+  "4491755776": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-collins-aerospace-4491755776",
+    "category": "Software Engineering",
+    "company": "Collins Aerospace",
+    "first_seen": "2026-11-18",
+    "id": "4491755776",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-collins-aerospace-4491755776",
+    "location": "Cedar Rapids, IA",
+    "posted": "2026-11-17",
+    "title": "Software Engineering Intern (Summer 2027)"
+  },
+  "4491761317": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-engineer-co-op-at-motorola-solutions-4491761317",
+    "category": "Software Engineering",
+    "company": "Motorola Solutions",
+    "first_seen": "2026-11-18",
+    "id": "4491761317",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineer-co-op-at-motorola-solutions-4491761317",
+    "location": "Utah, United States",
+    "posted": "2026-11-17",
+    "title": "Software Engineer Co-op"
+  },
+  "4491762081": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-python-summer-2027-at-akuna-capital-4491762081",
+    "category": "Software Engineering",
+    "company": "Akuna Capital",
+    "first_seen": "2026-11-18",
+    "id": "4491762081",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-python-summer-2027-at-akuna-capital-4491762081",
+    "location": "Chicago, IL",
+    "posted": "2026-11-17",
+    "title": "Software Engineer Intern - Python, Summer 2027"
+  },
+  "4491762138": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-intern-hybrid-at-lean-techniques-4491762138",
+    "category": "Software Engineering",
+    "company": "Lean TECHniques",
+    "first_seen": "2026-11-18",
+    "id": "4491762138",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-intern-hybrid-at-lean-techniques-4491762138",
+    "location": "Johnston, IA",
+    "posted": "2026-11-17",
+    "title": "Software Intern - Hybrid"
+  },
+  "4491770425": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-crusoe-4491770425",
+    "category": "Software Engineering",
+    "company": "Crusoe",
+    "first_seen": "2026-11-18",
+    "id": "4491770425",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-crusoe-4491770425",
+    "location": "San Francisco, CA",
+    "posted": "2026-11-17",
+    "title": "Software Engineering Intern, Summer 2027"
+  },
+  "4491785140": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-full-time-internship-jan-june-2027-at-state-street-4491785140",
+    "category": "Software Engineering",
+    "company": "State Street",
+    "first_seen": "2026-11-18",
+    "id": "4491785140",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-full-time-internship-jan-june-2027-at-state-street-4491785140",
+    "location": "Quincy, MA",
+    "posted": "2026-11-18",
+    "title": "Software Engineering Intern - Full-time Internship (Jan - June 2027)"
+  },
+  "4491794194": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-full-time-internship-jan-june-2027-at-state-street-4491794194",
+    "category": "Software Engineering",
+    "company": "State Street",
+    "first_seen": "2026-11-18",
+    "id": "4491794194",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-full-time-internship-jan-june-2027-at-state-street-4491794194",
+    "location": "Quincy, MA",
+    "posted": "2026-11-18",
+    "title": "Software Engineering Intern - Full-time Internship (Jan - June 2027)"
+  },
+  "4491794195": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-full-time-internship-jan-june-2027-at-state-street-4491794195",
+    "category": "Software Engineering",
+    "company": "State Street",
+    "first_seen": "2026-11-18",
+    "id": "4491794195",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-full-time-internship-jan-june-2027-at-state-street-4491794195",
+    "location": "Quincy, MA",
+    "posted": "2026-11-18",
+    "title": "Software Engineering Intern - Full-time Internship (Jan - June 2027)"
+  },
+  "4491795247": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-engineer-intergration-services-full-time-internship-jan-june-2027-at-state-street-4491795247",
+    "category": "Software Engineering",
+    "company": "State Street",
+    "first_seen": "2026-11-18",
+    "id": "4491795247",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineer-intergration-services-full-time-internship-jan-june-2027-at-state-street-4491795247",
+    "location": "Quincy, MA",
+    "posted": "2026-11-18",
+    "title": "Software Engineer (Intergration Services) - Full-time Internship (Jan - June 2027)"
+  },
+  "4491799247": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-at-true-rx-health-strategists-4491799247",
+    "category": "Software Engineering",
+    "company": "True Rx Health Strategists",
+    "first_seen": "2026-11-18",
+    "id": "4491799247",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-at-true-rx-health-strategists-4491799247",
+    "location": "Washington, IN",
+    "posted": "2026-11-18",
+    "title": "Software Engineer Intern"
+  },
+  "4491813651": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-backend-summer-2027-sf-at-futurepillar-4491813651",
+    "category": "Software Engineering",
+    "company": "Futurepillar",
+    "first_seen": "2026-11-18",
+    "id": "4491813651",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineer-intern-backend-summer-2027-sf-at-futurepillar-4491813651",
+    "location": "Nashville, TN",
+    "posted": "2026-11-18",
+    "title": "Software Engineer Intern, Backend (Summer 2027 - SF)"
+  },
+  "4491816545": {
+    "apply_url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-intern-summer-2027-at-futurepillar-4491816545",
+    "category": "Software Engineering",
+    "company": "Futurepillar",
+    "first_seen": "2026-11-18",
+    "id": "4491816545",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-intern-summer-2027-at-futurepillar-4491816545",
+    "location": "Seattle, WA",
+    "posted": "2026-11-18",
+    "title": "Full Stack Software Engineer Intern - Summer 2027"
+  },
+  "4491818420": {
+    "apply_url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-intern-summer-2027-at-futurepillar-4491818420",
+    "category": "Software Engineering",
+    "company": "Futurepillar",
+    "first_seen": "2026-11-18",
+    "id": "4491818420",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-intern-summer-2027-at-futurepillar-4491818420",
+    "location": "New York, NY",
+    "posted": "2026-11-18",
+    "title": "Full Stack Software Engineer Intern - Summer 2027"
+  },
+  "4491822244": {
+    "apply_url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-intern-summer-2027-at-futurepillar-4491822244",
+    "category": "Software Engineering",
+    "company": "Futurepillar",
+    "first_seen": "2026-11-18",
+    "id": "4491822244",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-intern-summer-2027-at-futurepillar-4491822244",
+    "location": "San Francisco, CA",
+    "posted": "2026-11-18",
+    "title": "Full Stack Software Engineer Intern - Summer 2027"
+  },
+  "4492005458": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-bs-ms-at-airbnb-4492005458",
+    "category": "Software Engineering",
+    "company": "Airbnb",
+    "first_seen": "2026-11-18",
+    "id": "4492005458",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-bs-ms-at-airbnb-4492005458",
+    "location": "San Francisco, CA",
+    "posted": "2026-11-18",
+    "title": "Software Engineering Intern (BS/MS)"
+  },
+  "4492068978": {
+    "apply_url": "https://www.linkedin.com/jobs/view/data-engineer-developer-intern-%E2%80%93-summer-2027-at-great-american-insurance-group-4492068978",
+    "category": "Software Engineering",
+    "company": "Great American Insurance Group",
+    "first_seen": "2026-11-18",
+    "id": "4492068978",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/data-engineer-developer-intern-%E2%80%93-summer-2027-at-great-american-insurance-group-4492068978",
+    "location": "Cincinnati, OH",
+    "posted": "2026-11-18",
+    "title": "Data Engineer Developer Intern \u2013 Summer 2027"
+  },
+  "4492069033": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-developer-intern-summer-2027-onsite-in-dallas-tx-at-conifer-health-solutions-4492069033",
+    "category": "Software Engineering",
+    "company": "Conifer Health Solutions",
+    "first_seen": "2026-11-18",
+    "id": "4492069033",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-developer-intern-summer-2027-onsite-in-dallas-tx-at-conifer-health-solutions-4492069033",
+    "location": "Dallas, TX",
+    "posted": "2026-11-18",
+    "title": "Software Developer Intern - Summer 2027 - Onsite in Dallas, TX"
+  },
+  "4492070099": {
+    "apply_url": "https://www.linkedin.com/jobs/view/2027-business-systems-engineer-intern-at-anduril-industries-4492070099",
+    "category": "Software Engineering",
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-18",
+    "id": "4492070099",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/2027-business-systems-engineer-intern-at-anduril-industries-4492070099",
+    "location": "Costa Mesa, CA",
+    "posted": "2026-11-18",
+    "title": "2027 Business Systems Engineer Intern"
+  },
+  "4492071622": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-full-time-internship-jan-june-2027-at-state-street-4492071622",
+    "category": "Software Engineering",
+    "company": "State Street",
+    "first_seen": "2026-11-18",
+    "id": "4492071622",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-full-time-internship-jan-june-2027-at-state-street-4492071622",
+    "location": "Boston, MA",
+    "posted": "2026-11-18",
+    "title": "Software Engineering Intern - Full-time Internship (Jan - June 2027)"
+  },
+  "4492073199": {
+    "apply_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-at-sallie-mae-4492073199",
+    "category": "Software Engineering",
+    "company": "Sallie Mae",
+    "first_seen": "2026-11-18",
+    "id": "4492073199",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/software-engineering-intern-at-sallie-mae-4492073199",
+    "location": "Newark, DE",
+    "posted": "2026-11-18",
+    "title": "Software Engineering Intern"
+  },
+  "4492080132": {
+    "apply_url": "https://www.linkedin.com/jobs/view/engineering-intern-software-at-data-device-corporation-4492080132",
+    "category": "Software Engineering",
+    "company": "Data Device Corporation",
+    "first_seen": "2026-11-18",
+    "id": "4492080132",
+    "linkedin_url": "https://www.linkedin.com/jobs/view/engineering-intern-software-at-data-device-corporation-4492080132",
+    "location": "Poway, CA",
+    "posted": "2026-11-18",
+    "title": "Engineering Intern - Software"
   }
 }
